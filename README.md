@@ -1,4 +1,6 @@
 This project is a conversational AI agent that uses your own documents (PDFs, text files, etc.) as knowledge sources and OpenAI’s powerful LLMs to answer questions with context-sensitive, accurate responses.
+
+
 🚀 Getting Started
 
 Clone the repo
