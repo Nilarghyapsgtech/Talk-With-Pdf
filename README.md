@@ -5,7 +5,7 @@ This project is a conversational AI agent that uses your own documents (PDFs, te
 
 Clone the repo
 
-git clone https://github.com/yourusername/Talk-With-Pdf.git
+git clone https://github.com/Nilarghyapsgtech/Talk-With-Pdf.git
 cd Talk-With-Pdf
 
 Create a virtual environment
